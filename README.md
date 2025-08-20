@@ -8,7 +8,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2024-Internships). lebron in the finals.
 
----awefaweg
+---awefawegnoiuhawefoiuhawoieuoaiuwef
 
 <div align="center">
 	<h3 >Want notifications when new internships open? </h3>
